@@ -18,3 +18,15 @@ body{
     font-size: 2rem;
     color: rgb(8, 20, 20);
 }
+
+#cabecera{
+    background-color: rgb(8, 20, 20);
+    color: white;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+#cabecera span{
+    font-size: 1.5rem;
+    color: thistle;
+}
