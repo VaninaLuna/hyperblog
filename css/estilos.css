@@ -1,5 +1,20 @@
 body{
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color:aqua
+    color:rgb(8, 20, 20);
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    width: 70%;
+    padding: 1rem;
+    text-align: center;
+    border: 1px solid rgb(8, 20, 20);
+    margin: 0 auto;
+}
+
+#conteiner h1{
+    font-size: 2rem;
+    color: rgb(8, 20, 20);
 }
